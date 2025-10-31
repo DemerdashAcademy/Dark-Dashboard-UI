@@ -170,7 +170,7 @@ Partial Class Form1
         Me.Guna2Button1.ShadowDecoration.Parent = Me.Guna2Button1
         Me.Guna2Button1.Size = New System.Drawing.Size(79, 36)
         Me.Guna2Button1.TabIndex = 0
-        Me.Guna2Button1.Text = "Home"
+        Me.Guna2Button1.Text = "Dashboard"
         '
         'Guna2Button2
         '
@@ -188,7 +188,7 @@ Partial Class Form1
         Me.Guna2Button2.ShadowDecoration.Parent = Me.Guna2Button2
         Me.Guna2Button2.Size = New System.Drawing.Size(79, 36)
         Me.Guna2Button2.TabIndex = 1
-        Me.Guna2Button2.Text = "Setting"
+        Me.Guna2Button2.Text = "Settings"
         '
         'Guna2Button3
         '
@@ -206,7 +206,7 @@ Partial Class Form1
         Me.Guna2Button3.ShadowDecoration.Parent = Me.Guna2Button3
         Me.Guna2Button3.Size = New System.Drawing.Size(79, 36)
         Me.Guna2Button3.TabIndex = 2
-        Me.Guna2Button3.Text = "Help"
+        Me.Guna2Button3.Text = "Support"
         '
         'Guna2Panel1
         '
@@ -270,7 +270,7 @@ Partial Class Form1
         Me.Label22.Name = "Label22"
         Me.Label22.Size = New System.Drawing.Size(185, 25)
         Me.Label22.TabIndex = 18
-        Me.Label22.Text = "Super Admin Access"
+        Me.Label22.Text = "Administrative Access"
         '
         'Label23
         '
@@ -282,7 +282,7 @@ Partial Class Form1
         Me.Label23.Name = "Label23"
         Me.Label23.Size = New System.Drawing.Size(80, 13)
         Me.Label23.TabIndex = 19
-        Me.Label23.Text = "View Analytics"
+        Me.Label23.Text = "Monitor Analytics"
         '
         'Guna2Separator2
         '
@@ -319,7 +319,7 @@ Partial Class Form1
         Me.Label21.Name = "Label21"
         Me.Label21.Size = New System.Drawing.Size(73, 13)
         Me.Label21.TabIndex = 13
-        Me.Label21.Text = "Super Admin"
+        Me.Label21.Text = "System Administrator"
         '
         'Label20
         '
@@ -331,7 +331,7 @@ Partial Class Form1
         Me.Label20.Name = "Label20"
         Me.Label20.Size = New System.Drawing.Size(41, 21)
         Me.Label20.TabIndex = 12
-        Me.Label20.Text = "Asril"
+        Me.Label20.Text = "Asril Prakoso"
         '
         'Guna2DragControl1
         '
@@ -398,7 +398,7 @@ Partial Class Form1
         Me.Guna2Button6.ShadowDecoration.Parent = Me.Guna2Button6
         Me.Guna2Button6.Size = New System.Drawing.Size(71, 36)
         Me.Guna2Button6.TabIndex = 8
-        Me.Guna2Button6.Text = "Account"
+        Me.Guna2Button6.Text = "Accounts"
         '
         'Guna2Button7
         '
@@ -441,7 +441,7 @@ Partial Class Form1
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(75, 63)
         Me.Label3.TabIndex = 3
-        Me.Label3.Text = "Yearly" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Turnover" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "__"
+        Me.Label3.Text = "Yearly" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Turnover" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Report"
         '
         'Label2
         '
@@ -463,7 +463,7 @@ Partial Class Form1
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(64, 50)
         Me.Label1.TabIndex = 1
-        Me.Label1.Text = "$9"
+        Me.Label1.Text = "$9.4"
         '
         'Guna2Panel3
         '
@@ -489,7 +489,7 @@ Partial Class Form1
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(84, 63)
         Me.Label4.TabIndex = 6
-        Me.Label4.Text = "Enterprise" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Client" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "__"
+        Me.Label4.Text = "Enterprise" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Clients" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Engaged"
         '
         'Label5
         '
@@ -547,7 +547,7 @@ Partial Class Form1
         Me.Label8.Name = "Label8"
         Me.Label8.Size = New System.Drawing.Size(172, 50)
         Me.Label8.TabIndex = 7
-        Me.Label8.Text = "$9249.81"
+        Me.Label8.Text = "$9,249.81"
         '
         'Label7
         '
@@ -559,7 +559,7 @@ Partial Class Form1
         Me.Label7.Name = "Label7"
         Me.Label7.Size = New System.Drawing.Size(70, 21)
         Me.Label7.TabIndex = 7
-        Me.Label7.Text = "Earnings"
+        Me.Label7.Text = "Total Earnings"
         '
         'pn_today
         '
@@ -602,7 +602,7 @@ Partial Class Form1
         Me.Label11.Name = "Label11"
         Me.Label11.Size = New System.Drawing.Size(75, 37)
         Me.Label11.TabIndex = 16
-        Me.Label11.Text = "$3M"
+        Me.Label11.Text = "$3.2M"
         '
         'PN_1
         '
@@ -626,7 +626,7 @@ Partial Class Form1
         Me.Label10.Name = "Label10"
         Me.Label10.Size = New System.Drawing.Size(97, 37)
         Me.Label10.TabIndex = 9
-        Me.Label10.Text = "$2890"
+        Me.Label10.Text = "$4,290"
         '
         'Label9
         '
@@ -638,7 +638,7 @@ Partial Class Form1
         Me.Label9.Name = "Label9"
         Me.Label9.Size = New System.Drawing.Size(127, 21)
         Me.Label9.TabIndex = 8
-        Me.Label9.Text = "Today's Received"
+        Me.Label9.Text = "Today's Receipts"
         '
         'pn_city
         '
@@ -708,7 +708,7 @@ Partial Class Form1
         Me.Label19.Name = "Label19"
         Me.Label19.Size = New System.Drawing.Size(121, 15)
         Me.Label19.TabIndex = 23
-        Me.Label19.Text = "2nd Apr - 12 Apr 2020"
+        Me.Label19.Text = "2 Apr - 12 Apr 2024"
         '
         'Label24
         '
@@ -814,7 +814,7 @@ Partial Class Form1
         Me.Label18.Name = "Label18"
         Me.Label18.Size = New System.Drawing.Size(60, 15)
         Me.Label18.TabIndex = 10
-        Me.Label18.Text = "Last Week"
+        Me.Label18.Text = "Last 7 Days"
         '
         'Label17
         '
@@ -826,7 +826,7 @@ Partial Class Form1
         Me.Label17.Name = "Label17"
         Me.Label17.Size = New System.Drawing.Size(127, 21)
         Me.Label17.TabIndex = 9
-        Me.Label17.Text = "Today's Received"
+        Me.Label17.Text = "Today's Receipts"
         '
         'Guna2MouseStateHandler1
         '
@@ -868,7 +868,7 @@ Partial Class Form1
         Me.Label13.Name = "Label13"
         Me.Label13.Size = New System.Drawing.Size(130, 21)
         Me.Label13.TabIndex = 9
-        Me.Label13.Text = "Contacted People"
+        Me.Label13.Text = "People Contacted"
         '
         'Guna2CircleProgressBar1
         '
@@ -904,7 +904,7 @@ Partial Class Form1
         Me.Guna2Button8.ShadowDecoration.Parent = Me.Guna2Button8
         Me.Guna2Button8.Size = New System.Drawing.Size(71, 36)
         Me.Guna2Button8.TabIndex = 17
-        Me.Guna2Button8.Text = "Manage"
+        Me.Guna2Button8.Text = "Manage Accounts"
         '
         'CartesianChart2
         '
@@ -924,7 +924,7 @@ Partial Class Form1
         Me.Label25.Name = "Label25"
         Me.Label25.Size = New System.Drawing.Size(81, 15)
         Me.Label25.TabIndex = 26
-        Me.Label25.Text = "Bank Account"
+        Me.Label25.Text = "Bank Accounts"
         '
         'Label26
         '
@@ -948,7 +948,7 @@ Partial Class Form1
         Me.Label27.Name = "Label27"
         Me.Label27.Size = New System.Drawing.Size(76, 15)
         Me.Label27.TabIndex = 28
-        Me.Label27.Text = "Paypal Direct"
+        Me.Label27.Text = "PayPal Direct"
         '
         'Label28
         '
@@ -972,7 +972,7 @@ Partial Class Form1
         Me.Label29.Name = "Label29"
         Me.Label29.Size = New System.Drawing.Size(67, 15)
         Me.Label29.TabIndex = 30
-        Me.Label29.Text = "Credit Card"
+        Me.Label29.Text = "Credit Cards"
         '
         'Label30
         '
@@ -984,7 +984,7 @@ Partial Class Form1
         Me.Label30.Name = "Label30"
         Me.Label30.Size = New System.Drawing.Size(46, 21)
         Me.Label30.TabIndex = 29
-        Me.Label30.Text = "1189"
+        Me.Label30.Text = "1,189"
         '
         'Guna2Panel6
         '
@@ -1016,7 +1016,7 @@ Partial Class Form1
         Me.Guna2Button9.ShadowDecoration.Parent = Me.Guna2Button9
         Me.Guna2Button9.Size = New System.Drawing.Size(176, 34)
         Me.Guna2Button9.TabIndex = 25
-        Me.Guna2Button9.Text = "Purchase Now"
+        Me.Guna2Button9.Text = "Upgrade Now"
         '
         'Guna2Panel7
         '
@@ -1060,7 +1060,7 @@ Partial Class Form1
         Me.Label31.Name = "Label31"
         Me.Label31.Size = New System.Drawing.Size(197, 42)
         Me.Label31.TabIndex = 30
-        Me.Label31.Text = "Buy Pro Account to Explore" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Premium Features"
+        Me.Label31.Text = "Upgrade to Pro to Unlock" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Premium Features"
         Me.Label31.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
         'Label32
@@ -1084,7 +1084,7 @@ Partial Class Form1
         Me.Label33.Name = "Label33"
         Me.Label33.Size = New System.Drawing.Size(85, 21)
         Me.Label33.TabIndex = 10
-        Me.Label33.Text = "Open Case"
+        Me.Label33.Text = "Open Cases"
         '
         'Label34
         '
@@ -1095,7 +1095,7 @@ Partial Class Form1
         Me.Label34.Name = "Label34"
         Me.Label34.Size = New System.Drawing.Size(67, 32)
         Me.Label34.TabIndex = 13
-        Me.Label34.Text = "3460"
+        Me.Label34.Text = "3,460"
         '
         'Label35
         '
@@ -1107,7 +1107,7 @@ Partial Class Form1
         Me.Label35.Name = "Label35"
         Me.Label35.Size = New System.Drawing.Size(138, 21)
         Me.Label35.TabIndex = 12
-        Me.Label35.Text = "Succesful Credited"
+        Me.Label35.Text = "Successfully Credited"
         '
         'Label36
         '
